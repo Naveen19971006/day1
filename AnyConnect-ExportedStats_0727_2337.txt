@@ -1,0 +1,136 @@
+Cisco AnyConnect Secure Mobility Client Version 3.1.13015
+
+VPN Stats
+    Bytes Received:  0
+    Bytes Sent:  0
+    Compressed Bytes Received:  0
+    Compressed Bytes Sent:  0
+    Compressed Packets Received:  0
+    Compressed Packets Sent:  0
+    Control Bytes Received:  0
+    Control Bytes Sent:  0
+    Control Packets Received:  0
+    Control Packets Sent:  0
+    Encrypted Bytes Received:  0
+    Encrypted Bytes Sent:  0
+    Encrypted Packets Received:  0
+    Encrypted Packets Sent:  0
+    Inbound Bypassed Packets:  0
+    Inbound Discarded Packets:  0
+    Outbound Bypassed Packets:  0
+    Outbound Discarded Packets:  0
+    Packets Received:  0
+    Packets Sent:  0
+    Time Connected:  00:00:00
+
+Protocol Info
+
+Routes
+Firewall Rules
+
+OS Version
+    Windows 8 : WinNT 6.2.9200 
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : DESKTOP-8I1MBMC
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Realtek PCIe FE Family Controller
+   Physical Address. . . . . . . . . : 60-18-95-49-ED-59
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Physical Address. . . . . . . . . : CE-6B-1E-5B-89-41
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Realtek 8821CE Wireless LAN 802.11ac PCI-E NIC
+   Physical Address. . . . . . . . . : CC-6B-1E-5B-89-41
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   IPv6 Address. . . . . . . . . . . : 2401:4900:2300:e178:e41f:c95c:2d12:efe6(Preferred) 
+   Temporary IPv6 Address. . . . . . : 2401:4900:2300:e178:dcc3:c65b:2f2d:afd5(Preferred) 
+   Link-local IPv6 Address . . . . . : fe80::e41f:c95c:2d12:efe6%11(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.160.122(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : 27 July 2022 23:36:22
+   Lease Expires . . . . . . . . . . : 28 July 2022 00:36:21
+   Default Gateway . . . . . . . . . : fe80::dc47:b6ff:feb1:6a1f%11
+                                       192.168.160.97
+   DHCP Server . . . . . . . . . . . : 192.168.160.97
+   DHCPv6 IAID . . . . . . . . . . . : 147614494
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-28-A9-AB-AA-60-18-95-49-ED-59
+   DNS Servers . . . . . . . . . . . : 192.168.160.97
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Bluetooth Device (Personal Area Network)
+   Physical Address. . . . . . . . . : CC-6B-1E-5B-89-42
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+===========================================================================
+Interface List
+  7...60 18 95 49 ed 59 ......Realtek PCIe FE Family Controller
+ 16...ce 6b 1e 5b 89 41 ......Microsoft Wi-Fi Direct Virtual Adapter
+ 11...cc 6b 1e 5b 89 41 ......Realtek 8821CE Wireless LAN 802.11ac PCI-E NIC
+  8...cc 6b 1e 5b 89 42 ......Bluetooth Device (Personal Area Network)
+  1...........................Software Loopback Interface 1
+===========================================================================
+
+IPv4 Route Table
+===========================================================================
+Active Routes:
+Network Destination        Netmask          Gateway       Interface  Metric
+          0.0.0.0          0.0.0.0   192.168.160.97  192.168.160.122     55
+        127.0.0.0        255.0.0.0         On-link         127.0.0.1    331
+        127.0.0.1  255.255.255.255         On-link         127.0.0.1    331
+  127.255.255.255  255.255.255.255         On-link         127.0.0.1    331
+    192.168.160.0    255.255.255.0         On-link   192.168.160.122    311
+  192.168.160.122  255.255.255.255         On-link   192.168.160.122    311
+  192.168.160.255  255.255.255.255         On-link   192.168.160.122    311
+        224.0.0.0        240.0.0.0         On-link         127.0.0.1    331
+        224.0.0.0        240.0.0.0         On-link   192.168.160.122    311
+  255.255.255.255  255.255.255.255         On-link         127.0.0.1    331
+  255.255.255.255  255.255.255.255         On-link   192.168.160.122    311
+===========================================================================
+Persistent Routes:
+  None
+
+IPv6 Route Table
+===========================================================================
+Active Routes:
+ If Metric Network Destination      Gateway
+ 11     71 ::/0                     fe80::dc47:b6ff:feb1:6a1f
+  1    331 ::1/128                  On-link
+ 11     71 2401:4900:2300:e178::/64 On-link
+ 11    311 2401:4900:2300:e178:dcc3:c65b:2f2d:afd5/128
+                                    On-link
+ 11    311 2401:4900:2300:e178:e41f:c95c:2d12:efe6/128
+                                    On-link
+ 11    311 fe80::/64                On-link
+ 11    311 fe80::e41f:c95c:2d12:efe6/128
+                                    On-link
+  1    331 ff00::/8                 On-link
+ 11    311 ff00::/8                 On-link
+===========================================================================
+Persistent Routes:
+  None
